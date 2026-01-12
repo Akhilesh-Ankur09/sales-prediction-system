@@ -1,4 +1,15 @@
-venv/
 __pycache__/
 *.pyc
+
+# Data
 data/raw/
+data/processed/
+
+# Models
+models/*.pkl
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Environment
+venv/
