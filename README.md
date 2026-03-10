@@ -268,6 +268,6 @@ It is designed as a deployable AI product — not a research demo.
 ## Author
 
 Akhilesh Ankur
-Data Scientist & Machine Learning Engineer
+ Generative AI & Machine Learning Engineer
 
 Retail Forecasting | Business Intelligence | AI Automation
